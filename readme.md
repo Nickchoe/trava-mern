@@ -4,5 +4,3 @@ export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
 
 nvm use 16
-
-khkjuuuu nnnnn
